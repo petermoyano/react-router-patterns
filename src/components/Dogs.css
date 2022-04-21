@@ -1,0 +1,13 @@
+body{
+    background-color: darkslategrey;
+}
+
+.dog{
+    width: 150px;
+    height: 150px;
+    margin: 1rem;
+}
+
+h1{
+    color: aquamarine;
+}
